@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Ambiente testing 
+<Conexion>
+	<Host>mysql.hostinger.es</Host>
+	<User>u643183889_sgm</User>
+	<Password>sgmlazos</Password>
+	<BBDD>u643183889_sgm</BBDD>
+	<depurarSQL>1</depurarSQL>
+	<depurarDUMP>0</depurarDUMP>
+</Conexion>-->
+<!-- Ambiente desarrollo-->
+<Conexion>
+	<Host>localhost</Host>
+	<User>sgm</User>
+	<Password>sgm</Password>
+	<BBDD>SGM</BBDD>
+	<depurarSQL>0</depurarSQL>
+	<depurarDUMP>0</depurarDUMP>
+</Conexion>	
